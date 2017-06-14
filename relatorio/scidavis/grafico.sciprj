@@ -1,0 +1,239 @@
+SciDAVis 1.14.0 project file
+<scripting-lang>	muParser
+<windows>	5
+<table>
+15385
+<table creation_time="1917-13-06 19:08:00:000" caption_spec="%n%C{ - }%c" name="Mediana" columns="12" rows="8"><comment><![CDATA[/Users/nanotech/Desktop/TP3/results/Mediana.csv]]></comment><column creation_time="2017-13-06 19:08:45:106" caption_spec="%n%C{ - }%c" name="Dimensao" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:09:03:943" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:09:03:943" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+03</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+03</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000000e+03</row><row type="TypeDouble" index="3" invalid="no">1.0000000000000000e+04</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+04</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+05</row><row type="TypeDouble" index="6" invalid="no">5.0000000000000000e+05</row><row type="TypeDouble" index="7" invalid="no">1.0000000000000000e+06</row></column><column creation_time="2017-13-06 19:16:22:002" caption_spec="%n%C{ - }%c" name="Counting" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:16:22:002" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:16:22:002" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">2.1000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">4.4000000000000000e+01</row></column><column creation_time="2017-13-06 19:14:47:075" caption_spec="%n%C{ - }%c" name="Quick1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:47:075" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:47:075" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.3000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">2.7000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.3500000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">2.8300000000000000e+02</row></column><column creation_time="2017-13-06 19:14:49:640" caption_spec="%n%C{ - }%c" name="QuickIn" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:49:640" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:49:640" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.7000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">3.4000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.4900000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">2.8900000000000000e+02</row></column><column creation_time="2017-13-06 19:14:45:240" caption_spec="%n%C{ - }%c" name="Quick2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:45:240" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:45:240" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">2.9000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.3800000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">2.8600000000000000e+02</row></column><column creation_time="2017-14-06 21:27:55:584" caption_spec="%n%C{ - }%c" name="Radix" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-14-06 21:27:55:584" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-14-06 21:27:55:584" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.4700000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">2.9000000000000000e+02</row></column><column creation_time="2017-13-06 19:14:43:626" caption_spec="%n%C{ - }%c" name="Merge" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:43:626" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:43:626" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">3.4000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">7.1000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">3.3700000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">7.0000000000000000e+02</row></column><column creation_time="2017-13-06 19:16:20:551" caption_spec="%n%C{ - }%c" name="Heap" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:16:20:551" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:16:20:551" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">5.9000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">3.2600000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">7.1300000000000000e+02</row></column><column creation_time="2017-13-06 19:14:41:192" caption_spec="%n%C{ - }%c" name="Shell" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:41:192" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:41:192" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">7.4000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">1.7150000000000000e+03</row><row type="TypeDouble" index="5" invalid="no">7.1520000000000000e+03</row><row type="TypeDouble" index="6" invalid="no">1.6539100000000000e+05</row><row type="TypeDouble" index="7" invalid="no">6.7825300000000000e+05</row></column><column creation_time="2017-13-06 19:14:35:839" caption_spec="%n%C{ - }%c" name="Insertion" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:35:839" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:35:839" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">1.0100000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">4.1400000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">1.0557000000000000e+04</row><row type="TypeDouble" index="5" invalid="no">4.1025000000000000e+04</row><row type="TypeDouble" index="6" invalid="no">9.6484000000000000e+05</row><row type="TypeDouble" index="7" invalid="no">3.8083500000000000e+06</row></column><column creation_time="2017-13-06 19:14:33:794" caption_spec="%n%C{ - }%c" name="Selection" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:14:33:794" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:14:33:794" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">1.4000000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">5.5100000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">1.3896000000000000e+04</row><row type="TypeDouble" index="5" invalid="no">5.5268000000000000e+04</row><row type="TypeDouble" index="6" invalid="no">1.3526100000000000e+06</row><row type="TypeDouble" index="7" invalid="no">5.3964520000000000e+06</row></column><column creation_time="2017-13-06 19:16:23:365" caption_spec="%n%C{ - }%c" name="Bubble" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2017-13-06 19:16:23:365" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2017-13-06 19:16:23:365" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">4.1000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.4200000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">1.0200000000000000e+03</row><row type="TypeDouble" index="4" invalid="no">2.2894000000000000e+04</row><row type="TypeDouble" index="5" invalid="no">7.7951000000000000e+04</row><row type="TypeDouble" index="6" invalid="no">1.5003720000000000e+06</row><row type="TypeDouble" index="7" invalid="no">5.6481350000000000e+06</row></column><column_width column="0">108</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width><column_width column="11">120</column_width></table>
+geometry	0	0	1160	477	
+
+</table>
+<multiLayer>
+Graph1	1	1	13/06/17 19:30
+geometry	120	58	1364	611	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1298	519
+Alignement	0	0
+<graph>
+ggeometry	5	3	1335	549
+PlotTitle	Tempo de execução algoritmos de ordenação rápidos	#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Dimensão	Tempo(ms)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	.SF NS Text	53	75	0	0	0
+ScaleFont0	.SF NS Text	46	75	0	0	0
+ScaleFont1	.SF NS Text	46	75	0	0	0
+ScaleFont2	.SF NS Text	46	75	0	0	0
+ScaleFont3	.SF NS Text	46	75	0	0	0
+AxisFont0	.SF NS Text	46	50	0	0	0
+AxisFont1	.SF NS Text	46	50	0	0	0
+AxisFont2	.SF NS Text	46	50	0	0	0
+AxisFont3	.SF NS Text	46	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Mediana_Dimensao	Mediana_Counting	2	1	0	0	2	7	1	0	0	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Quick1	2	1	1	0	2	7	2	1	1	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_QuickIn	2	1	2	0	2	7	3	2	2	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Quick2	2	1	3	0	2	7	4	3	3	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Merge	2	1	4	0	2	7	5	4	4	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Heap	2	1	5	0	2	7	6	5	5	0	0	16	0	2	0	0	7	1
+scale	0	-100	800	0	10	5	0	0
+scale	1	0	800	0	8	5	0	0
+scale	2	-200000	1200000	0	6	5	0	0
+scale	3	0	1010000	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	7971.5864246251	783.706720977597	.SF NS Text	46	50	0	0	0	#000000	1	0	#ffffff	0	\c{1}Counting(Mediana)	\c{2}Quick1(Mediana)	\c{3}QuickIn(Mediana)	\c{4}Quick2(Mediana)	\c{5}Merge(Mediana)	\c{6}Heap(Mediana)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph2	1	1	13/06/17 19:34
+geometry	153	34	500	400	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	416	307
+Alignement	0	0
+<graph>
+ggeometry	12	6	1151	448
+PlotTitle	Tempo de execução algoritmos de ordenação lentos	#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Dimensão	Tempo(ms)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	.SF NS Text	146	75	0	0	0
+ScaleFont0	.SF NS Text	128	75	0	0	0
+ScaleFont1	.SF NS Text	128	75	0	0	0
+ScaleFont2	.SF NS Text	128	75	0	0	0
+ScaleFont3	.SF NS Text	128	75	0	0	0
+AxisFont0	.SF NS Text	128	50	0	0	0
+AxisFont1	.SF NS Text	128	50	0	0	0
+AxisFont2	.SF NS Text	128	50	0	0	0
+AxisFont3	.SF NS Text	128	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Mediana_Dimensao	Mediana_Shell	2	1	0	0	2	7	1	0	0	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Insertion	2	1	1	0	2	7	2	1	1	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Selection	2	1	2	0	2	7	3	2	2	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Bubble	2	1	3	0	2	7	4	3	3	0	0	16	0	2	0	0	7	1
+scale	0	3000000	10000000	0	8	5	0	0
+scale	1	0	6000000	0	8	5	0	0
+scale	2	200000	800000	0	6	5	0	0
+scale	3	0	1010000	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	8251.6339869281	5876288.65979381	.SF NS Text	128	50	0	0	0	#000000	1	0	#ffffff	0	\c{1}Shell(Mediana)	\c{2}MInsertion(Mediana)	\c{3}Selection(Mediana)	\c{4}Bubble(Mediana)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph3	1	1	13/06/17 19:37
+geometry	269	2	500	400	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	416	307
+Alignement	0	0
+<graph>
+ggeometry	14	8	1353	579
+PlotTitle	Tempo de execução algoritmos de ordenação	#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Dimensão	Tempo(ms)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	.SF NS Text	60	75	0	0	0
+ScaleFont0	.SF NS Text	52	75	0	0	0
+ScaleFont1	.SF NS Text	52	75	0	0	0
+ScaleFont2	.SF NS Text	52	75	0	0	0
+ScaleFont3	.SF NS Text	52	75	0	0	0
+AxisFont0	.SF NS Text	52	50	0	0	0
+AxisFont1	.SF NS Text	52	50	0	0	0
+AxisFont2	.SF NS Text	52	50	0	0	0
+AxisFont3	.SF NS Text	52	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Mediana_Dimensao	Mediana_Counting	2	1	0	0	2	7	1	0	0	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Quick1	2	1	1	0	2	7	2	1	1	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_QuickIn	2	1	2	0	2	7	3	2	2	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Quick2	2	1	3	0	2	7	4	3	3	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Merge	2	1	4	0	2	7	5	4	4	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Heap	2	1	5	0	2	7	6	5	5	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Shell	2	1	6	0	2	7	7	6	6	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Insertion	2	1	7	0	2	7	8	7	7	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Selection	2	1	8	0	2	7	9	8	8	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Bubble	2	1	9	0	2	7	10	9	9	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Radix	2	1	10	0	1	7	11	10	10	0	0	16	0	2	0	0	7	1
+scale	0	0	6000000	0	8	5	0	0
+scale	1	0	6000000	0	8	5	0	0
+scale	2	0	1010000	0	8	5	0	0
+scale	3	0	1010000	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	33212.478920742	5973568.28193833	.SF NS Text	28	50	0	0	0	#000000	1	0	#ffffff	0	\c{1}Mediana_Counting	\c{2}Mediana_Quick1	\c{3}Mediana_QuickIn	\c{4}Mediana_Quick2	\c{5}Mediana_Merge	\c{6}Mediana_Heap	\c{7}Mediana_Shell	\c{8}Mediana_Insertion	\c{9}Mediana_Selection	\c{10}Mediana_Bubble	\c{11}Mediana_Radix	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph6	1	1	14/06/17 21:33
+geometry	maximized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1093	385
+Alignement	0	0
+<graph>
+ggeometry	5	6	1350	577
+PlotTitle	Tempo de execução algoritmos de ordenação	#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Dimensão	Tempo(ms)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	.SF NS Text	19	75	0	0	0
+ScaleFont0	.SF NS Text	17	75	0	0	0
+ScaleFont1	.SF NS Text	17	75	0	0	0
+ScaleFont2	.SF NS Text	17	75	0	0	0
+ScaleFont3	.SF NS Text	17	75	0	0	0
+AxisFont0	.SF NS Text	17	50	0	0	0
+AxisFont1	.SF NS Text	17	50	0	0	0
+AxisFont2	.SF NS Text	17	50	0	0	0
+AxisFont3	.SF NS Text	17	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Mediana_Dimensao	Mediana_Counting	2	1	0	0	1	7	1	0	0	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Quick1	2	1	1	0	1	7	2	1	1	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_QuickIn	2	1	2	0	1	7	3	2	2	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Quick2	2	1	3	0	1	7	4	3	3	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Radix	2	1	4	0	1	7	5	4	4	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Merge	2	1	5	0	1	7	6	5	5	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Heap	2	1	6	0	1	7	7	6	6	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Shell	2	1	7	0	1	7	8	7	7	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Insertion	2	1	8	0	1	7	9	8	8	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Selection	2	1	9	0	1	7	10	9	9	0	0	16	0	2	0	0	7	1
+curve	Mediana_Dimensao	Mediana_Bubble	2	1	10	0	1	7	11	10	10	0	0	16	0	2	0	0	7	1
+scale	0	0	6000000	0	8	5	0	0
+scale	1	0	6000000	0	8	5	0	0
+scale	2	0	1010000	0	7	5	0	0
+scale	3	0	1010000	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	8035.00397772474	5880239.52095808	.SF NS Text	17	50	0	0	0	#000000	1	0	#ffffff	0	\c{1}Mediana_Counting	\c{2}Mediana_Quick1	\c{3}Mediana_QuickIn	\c{4}Mediana_Quick2	\c{5}Mediana_Radix	\c{6}Mediana_Merge	\c{7}Mediana_Heap	\c{8}Mediana_Shell	\c{9}Mediana_Insertion	\c{10}Mediana_Selection	\c{11}Mediana_Bubble	</legend>
+</graph>
+</multiLayer>
+<log>
+</log>

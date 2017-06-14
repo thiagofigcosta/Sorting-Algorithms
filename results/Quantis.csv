@@ -1,0 +1,12 @@
+Algoritmo,Quantil 0.1,Quantil 0.25,Quantil 0.5,Quantil 0.75,Quantil 0.9
+QuickIn,0,1,3,56,287
+Quick1,0,0,4,49,281
+Quick2,0,0,4,50,284
+Merge,0,2,9,128,696
+Shell,1,4,92,9530,675684
+Insertion,5,16,540,53321,3802125
+Selection,6,25,596,57441,5332615
+Bubble,11,44,1072,100918,5640278
+Counting,0,0,1,4,43
+Heap,0,1,6,61,709
+Radix,0,0,4,40,286
